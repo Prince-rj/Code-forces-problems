@@ -12,9 +12,13 @@ typedef pair<int,int> pi;
 #define MP make_pair
 #define REP(i,a,b) for (int i = a; i <= b; i++)
 
-
 int main(){
-    
+    int t;
+    cin>>t;
+    while(t>0){
+        t--;
+        
+    }
     return 0;
 }
 
@@ -29,11 +33,11 @@ int main(){
 
 // printf("%.9f\n", x); //print floating points with precision till 9
 
+
 // comparing float/double
 // if(abs(a-b)<1e-9){
 //     //both are equal
 // }
-
 
 
 //vector operations ex

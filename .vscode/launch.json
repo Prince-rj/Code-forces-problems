@@ -3,5 +3,41 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AmrandMusic",
+            "request": "launch",
+            "mainClass": "AmrandMusic",
+            "projectName": "Questions CF_db2ca757"
+        },
+        {
+            "type": "java",
+            "name": "Quest",
+            "request": "launch",
+            "mainClass": "Quest",
+            "projectName": "Questions CF_db2ca757"
+        },
+        {
+            "type": "java",
+            "name": "Quest",
+            "request": "launch",
+            "mainClass": "contest.con4.Quest",
+            "projectName": "Questions CF_db2ca757"
+        },
+        {
+            "type": "java",
+            "name": "Ques",
+            "request": "launch",
+            "mainClass": "contest.con4.Ques",
+            "projectName": "Questions CF_db2ca757"
+        },
+        {
+            "type": "java",
+            "name": "Ques3",
+            "request": "launch",
+            "mainClass": "contest.con4.Ques3",
+            "projectName": "Questions CF_db2ca757"
+        }
+    ]
 }
